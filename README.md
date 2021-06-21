@@ -28,5 +28,6 @@ See [setup instructions](https://codefellows.github.io/setup-guide/code-301/3-co
 |Code Challenge: Class 27|[merge-sort](./javascript/challenges/sort/merge-sort/BLOG)                             |
 |Code Challenge: Class 28|[quik-sort](./javascript/challenges/sort/quik-sort/BLOG)                             |
 |Code Challenge: Class 30|[Hash Table](./javascript/challenges/hashtable/hashtable/README)                             |
-|Code Challenge: Class 31|[Reapeted Word](./javascript/challenges/hashtable/repeatedWord/README)                             |
+|Code Challenge: Class 31|[Reapeted Word](./javascript/challenges/hashtable/repeatedWord/README)                     |
+|Code Challenge: Class 32|[tree Intersection by hashtable](./javascript/challenges/hashtable/treeIntersection/README) |
 

@@ -4,7 +4,7 @@ const HashTable = require('../hashtable/hashtable');
 module.exports=function repeatedWord(inputString){
   const arrOfwords = inputString.match(/\w+/g);
 
-//   const arrOfwords = inputString.split(' ');
+  //   const arrOfwords = inputString.split(' ');
   console.log(arrOfwords);
   const newTable = new HashTable(arrOfwords.length);
   for (let i = 0; i < arrOfwords.length; i++) {
